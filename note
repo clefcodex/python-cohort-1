@@ -1,0 +1,5 @@
+python -m venv pythonz
+
+-Scope Process -ExecutionPolicy Bypass
+
+.\pythonz\Scripts\Activate.ps1
