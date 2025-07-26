@@ -1,5 +1,12 @@
 python -m venv pythonz
 
--Scope Process -ExecutionPolicy Bypass
+<!-- -Scope Process -ExecutionPolicy Bypass -->
+
+Set-ExecutionPolicy Restricted -Scope CurrentUser
 
 .\pythonz\Scripts\Activate.ps1
+
+
+
+
+https://github.com/apostleoffinance/python-cohort-1/blob/main/Module_1/03_function_class_modules.ipynb
